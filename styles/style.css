@@ -1262,6 +1262,11 @@ input::placeholder {
   appearance: none;
 }
 
+select,
+select option {
+  cursor: pointer;
+}
+
 .contact-form-card select option {
   background-color: #ffffff !important;
   color: #111827 !important;
@@ -1399,6 +1404,7 @@ input::placeholder {
   .section-title {
     font-size: 2rem;
   }
+
   .contact-info h3 {
     text-align: center;
   }
@@ -1553,6 +1559,3 @@ input::placeholder {
     text-align: center;
   }
 }
-
-
-
