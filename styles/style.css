@@ -37,7 +37,7 @@ a:focus {
   align-items: center;
   justify-content: center;
   text-align: center;
-  background-image: url('../img/7dec9622-02a4-4de3-b19f-f7bcccb99658.jpg');
+  background-image: url('img/7dec9622-02a4-4de3-b19f-f7bcccb99658.jpg');
   background-size: cover;
   background-position: center;
   padding: 20px;
@@ -1553,4 +1553,5 @@ input::placeholder {
     text-align: center;
   }
 }
+
 
