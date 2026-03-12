@@ -1426,7 +1426,6 @@ input::placeholder {
 .footer-top {
   display: flex;
   justify-content: space-between;
-  align-items: center;
   gap: 50px;
   padding-bottom: 50px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
@@ -1553,4 +1552,5 @@ input::placeholder {
     gap: 20px;
     text-align: center;
   }
+
 }
